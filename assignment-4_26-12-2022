@@ -1,0 +1,6 @@
+veeru=[]
+for i in range(5):
+    a=int(input())
+    veeru.append(a)
+print(max(veeru))
+print(min(veeru))
