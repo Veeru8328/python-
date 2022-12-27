@@ -1,0 +1,5 @@
+sample=list(map(int,input().split()))
+sample.reverse()
+print("Reverse of list:",sample)
+Footer
+Footer navigation
